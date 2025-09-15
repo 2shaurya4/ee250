@@ -1,7 +1,7 @@
 # Lab 2
 
 ## Team Members
- - Shaurya Goel
+ - Shaurya Goel (Github handle: @2shaurya4)
 
 ## Lab Question Answers
 Answer for Question 1A:
