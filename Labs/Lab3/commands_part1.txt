@@ -1,0 +1,4 @@
+python3 mail_client.py --server http://10.171.38.171:5000 send -t bob -f alice -s "hi" "hello bob" <- Sends an email
+python3 mail_client.py --server http://10.171.38.171:5000 inbox -u 'bob' <- Let's you see the inbox
+python3 mail_client.py --server http://10.171.38.171:5000 get <id>
+python3 mail_client.py --server http://10.171.38.171:5000 delete <id>
